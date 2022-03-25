@@ -1,1 +1,1 @@
-# ORM-SEQUELIZE1
+# orm-sequelize
